@@ -1,9 +1,5 @@
 <h3 align="center">Hello there, I'm Mehdi 👋</h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/mehdifa/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  
-</h5>
+
 
 <!--
 **Fa-Mehdi/Fa-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
