@@ -15,7 +15,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-F05032?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="visual studio" src="https://img.shields.io/badge/-visual%20studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <img alt="visual studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
   <img alt="visual studio code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
