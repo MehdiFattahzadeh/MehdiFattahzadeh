@@ -23,6 +23,17 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="RabbitMq" src="https://img.shields.io/badge/-RabbitMq-FF6600?style=flat-square&logo=RabbitMq&logoColor=white" />
 </p>
+<hr>
+<h3>Hire me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/mehdifa/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Fa-Mehdi">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
+  </a>
+
+<p>
 <!--
 **Fa-Mehdi/Fa-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
