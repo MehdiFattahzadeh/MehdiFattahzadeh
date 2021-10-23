@@ -1,6 +1,5 @@
 <h3 align="center">Hello there, I'm Mehdi 👋</h3>
 <h4 align="center">Wellcome to my Page </h4>
-<h3>What I Code with</h3>
 <p>
   <img alt=".Net" src="https://img.shields.io/badge/-.Net-5C2D91?logo=.net&logoColor=white&style=flat-square" />
   <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=white&style=flat-square" />
@@ -24,11 +23,7 @@
   <img alt="RabbitMq" src="https://img.shields.io/badge/-RabbitMq-FF6600?style=flat-square&logo=RabbitMq&logoColor=white" />
 </p>
 <hr>
-<h3>Hire me 🤝</h3>
- <a href="mailto://mehdi.fattahzadeh@outlook.com">
-      <img alt="Mail" src="https://img.shields.io/badge/-Mehdi.Fattahzadeh@Outlook.com-0078D4?logo=Microsoft-Outlook&logoColor=white&style=flat-square" />
- </a>
- 
+
 <p>
   <a href="https://www.linkedin.com/in/mehdifa/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
@@ -39,17 +34,3 @@
 
 
 <p>
-<!--
-**Fa-Mehdi/Fa-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
